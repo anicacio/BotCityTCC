@@ -15,7 +15,7 @@ def main():
     # Runner passes the server url, the id of the task being executed,
     # the access token and the parameters that this task receives (when applicable).
     maestro = BotMaestroSDK()
-    maestro.login(server="https://training.botcity.dev", login="anderson_nicacio", key="AND_JKVENF0EIEIHGAOPL4BM")
+    maestro.login(server="https://training.botcity.dev", login="INSIRA_LOGIN_AQUI", key="INSIRA_KEY_AQUI")
 
     for n in range(10):
         params = {
