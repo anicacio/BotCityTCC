@@ -1,0 +1,1 @@
+Compress-Archive -LiteralPath . -DestinationPath "BotCityTCC_dispatcher.zip" -Force
